@@ -17,6 +17,6 @@ I fell in love with capturing moments and seeing the reactions of people when th
 
 I also combined this with cooking. I love to cook, and I enjoy taking pictures of what I make. Seeing the colors, textures, and details through my camera turns every dish into its own small piece of art.  
 
-<img src="Cook.jpg" alt="COOK" style="width:30%; height:auto;">
+<img src="cook.jpg" alt="COOK" style="width:30%; height:auto;"> &nbsp;&nbsp;&nbsp; <img src="cook2.jpg" alt="COOK2" style="width:30%; height:auto;">
 
 For me, both photography and cooking are about creating, sharing, and connecting with people. It's about seeing beauty where others might not, and sharing that vision with the world.
