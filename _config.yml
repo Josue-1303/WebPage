@@ -1,16 +1,1 @@
-title: "Josue’s Web"
-description: "Mi sitio web en Markdown con estilo personalizado."
-markdown: kramdown
-theme: null  # Esto desactiva el tema por defecto de GitHub Pages
-plugins:
-  - jekyll-relative-links
-
-relative_links:
-  enabled: true
-  collections: true
-
-include:
-  - "*.md"
-  - "*.html"
-
-layouts_dir: _layouts
+theme: jekyll-theme-cayman
