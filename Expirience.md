@@ -1,3 +1,9 @@
+---
+layout: default
+title: Nombre de página
+---
+
+
 ## Expirience 
 
 I have always enjoyed working whenever I have the opportunity, starting back in school. My dedication and good grades earned me the chance to join Optinetwork, a technology company, as an internship, where I met incredible people who taught me a lot, and I gave my best in every task.
