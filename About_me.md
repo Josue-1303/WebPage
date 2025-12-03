@@ -6,7 +6,7 @@ I believe in someone beyond what I can see, a presence that quietly protects and
 
 Every challenge I face, every new skill I learn, is part of the journey toward that vision: a life of purpose, connection, and meaningful growth. I strive to leave a mark that reflects not just what I can achieve, but the values and people who inspire me along the way.
 
-[_**Education**_](Education.md) &nbsp;&nbsp;&nbsp; [_**Hobbies**_](Hobbies.md) &nbsp;&nbsp;&nbsp; [_**Expirience**_](Expirience.md)
+[_**Education**_](Education.md) &nbsp;&nbsp;&nbsp; [_**Hobbies**_](Hobbies.md) &nbsp;&nbsp;&nbsp; [_**Expirience**_](Expirience.md) &nbsp;&nbsp;&nbsp; [_**Project**_](Projects.md)
 
 **_______________________________________________________________________________________________________________**
 
