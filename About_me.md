@@ -1,3 +1,7 @@
+---
+layout: default
+title: About Me
+---
 # About Me
 
 I am Josué, a wanderer at heart with a mind always curious, seeking to understand and create. From a young age, discipline has been part of who I am—shaped by sports, by early mornings, and by the lessons my father shared with patience and care. Those moments taught me resilience, focus, and the quiet strength of dedication.
