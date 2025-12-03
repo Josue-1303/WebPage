@@ -7,9 +7,9 @@ I grew up near Centro Bilingüe Vista Alegre, a school that was not only my plac
 
 Thanks to the school, I had the chance to complete an internship at Optinetwork, a technology company where I worked with the IT team. This experience allowed me to apply my knowledge in a professional environment, collaborate on real projects, and gain a deeper understanding of technology from a practical perspective.
 
-<img src="prom_2024.JPG" alt="PROM2024" style="width:50%; height:auto;">
+<img src="prom_2024.JPG" alt="PROM2024" style="width:82%; height:auto;">
 
-<img src="instan_pics.jpg" alt="INSTANT PICS" style="width:50%; height:auto;">
+<img src="instan_pics.jpg" alt="INSTANT PICS" style="width:40%; height:auto;">  &nbsp;&nbsp;&nbsp; <img src="polo_t-shirt.jpg" alt="POLO_T-SHIRT" style="width:40%; height:aouto;">
 
 ### Centria University of Applied Sciences — Kokkola, Finland
 
