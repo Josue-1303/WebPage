@@ -1,3 +1,9 @@
+---
+layout: default
+title: Nombre de página
+---
+
+
 ## Projects 
 
 Since I started studying i have been working on some basic projects
