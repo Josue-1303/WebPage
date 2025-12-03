@@ -1,3 +1,9 @@
+---
+layout: default
+title: Nombre de página
+---
+
+
 ## Hobbies
 
 My discipline started on the basketball court. Every day, early mornings and hard practices taught me focus, patience, and dedication. 
