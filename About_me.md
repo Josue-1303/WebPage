@@ -8,4 +8,7 @@ Every challenge I face, every new skill I learn, is part of the journey toward t
 
 [_**Education**_](Education.md) &nbsp;&nbsp;&nbsp; [_**Hobbies**_](Hobbies.md) &nbsp;&nbsp;&nbsp; [_**Expirience**_](Expirience.md)
 
-[_**BACK**_](index.md) 
+**____________________________________________________________________________________________________________________________________**
+
+
+[_**BACK**_](index.md) &nbsp;&nbsp;&nbsp; [_**Linkedin**_](www.linkedin.com/in/josue-morales-683237393) &nbsp;&nbsp;&nbsp; [_**GitHub**_](https://github.com/Josue-1303)
