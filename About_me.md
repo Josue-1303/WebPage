@@ -11,4 +11,4 @@ Every challenge I face, every new skill I learn, is part of the journey toward t
 **_______________________________________________________________________________________________________________**
 
 
-[_**BACK**_](index.md) &nbsp;&nbsp;&nbsp; [_**Linkedin**_](httpd://www.linkedin.com/in/josue-morales-683237393) &nbsp;&nbsp;&nbsp; [_**GitHub**_](https://github.com/Josue-1303)
+[_**BACK**_](index.md) &nbsp;&nbsp;&nbsp; [_**Linkedin**_](https://www.linkedin.com/in/josue-morales-683237393) &nbsp;&nbsp;&nbsp; [_**GitHub**_](https://github.com/Josue-1303)
