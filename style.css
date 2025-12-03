@@ -1,14 +1,30 @@
 
-/* Estilos globales para centrar y hacer responsivo */
 body {
   margin: 0;
   padding: 0;
-  font-family: Arial, sans-serif;
-  text-align: center; /* Centra el texto */
+  font-family: 'Segoe UI', Tahoma, sans-serif;
+  background-color: #f9f9f9; /* Fondo suave */
+  color: #333; /* Texto oscuro */
 }
 
 .container {
-  max-width: 800px; /* Ancho máximo para que no se vea muy ancho en pantallas grandes */
-  margin: 0 auto;    /* Centra el contenedor horizontalmente */
-  padding: 20px;     /* Espaciado interno */
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background: #fff; /* Fondo blanco para el contenido */
+  border-radius: 8px; /* Bordes redondeados */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra suave */
+}
+
+h1, h2, h3 {
+  color: #2c3e50; /* Títulos más elegantes */
+}
+
+a {
+  color: #007acc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
 }
