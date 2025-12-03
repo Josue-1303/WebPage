@@ -15,4 +15,5 @@ Currently, I have applied for an internship at Centria, where I hope to collabor
 <img src="programming.jpg" alt="PROGRAMMING" style="width:30%; height:auto;">
 
 **________________________________________________________**
-[_**BACK*_](About_me.md)
+
+[_**BACK**_](About_me.md)
