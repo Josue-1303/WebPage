@@ -24,3 +24,5 @@ I applied immediately after graduation, putting in a great deal of effort, and p
 <img src="fly.jpg" alt="FLY" style="width:50%; height:auto;">
 
 While here, I began working at Burger Village to support my tuition, balancing work and studies. Today, I am pursuing what I love most—my studies in Information Technology—and it has exceeded all my expectations. I truly love every moment of it.
+
+[_**BACK_**](index.md)
