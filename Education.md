@@ -1,3 +1,9 @@
+---
+layout: default
+title: Nombre de página
+---
+
+
 ## Education 
 
 #### Centro Bilingüe Vista Alegre — High School in Technology
