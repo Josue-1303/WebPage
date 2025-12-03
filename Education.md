@@ -17,7 +17,7 @@ Thanks to the school, I had the chance to complete an internship at Optinetwork,
 
 Recognizing that the education system in Panama has its limitations, I aimed higher and decided to apply to a university in one of the countries with the highest education ratings. As soon as I graduated, I made the difficult decision to separate from my family and friends to fully prepare for the future I had always dreamed of.
 
-<img src="Grad.jpg" alt="GRAD" style="width:25%; height:auto;">
+<img src="Grad.jpg" alt="GRAD" style="width:35%; height:auto;">
 
 I applied immediately after graduation, putting in a great deal of effort, and performed well on the admission exam. Driven by hope, I applied for a work permit and moved to Finland even before receiving my results. Once I received them, I felt as though I had already won in life, even though it was only the beginning.
 
