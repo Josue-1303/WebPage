@@ -1,7 +1,5 @@
 ## Hobbies
 
-## My Journey in Art
-
 My discipline started on the basketball court. Every day, early mornings and hard practices taught me focus, patience, and dedication. 
 
 <img src="basketball.JPG" alt="Basket" style="width:30%; height:auto;">
@@ -20,3 +18,5 @@ I also combined this with cooking. I love to cook, and I enjoy taking pictures o
 <img src="cook.jpg" alt="COOK" style="width:30%; height:auto;"> &nbsp;&nbsp;&nbsp; <img src="cook2.jpg" alt="COOK2" style="width:30%; height:auto;">
 
 For me, both photography and cooking are about creating, sharing, and connecting with people. It's about seeing beauty where others might not, and sharing that vision with the world.
+
+[_**BACK**_](index.md)
