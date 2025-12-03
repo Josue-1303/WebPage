@@ -19,7 +19,7 @@ Recognizing that the education system in Panama has its limitations, I aimed hig
 
 <img src="Grad.jpg" alt="GRAD" style="width:35%; height:auto;">
 
-I applied immediately after graduation, putting in a great deal of effort, and performed well on the admission exam. Driven by hope, I applied for a work permit and moved to Finland even before receiving my results. Once I received them, I felt as though I had already won in life, even though it was only the beginning.
+I applied immediately after graduation, putting in a great deal of effort, and performed well on the admission exam. Driven by hope, I applied for a work permit and moved to Finland even before receiving my results. Once I received them, I felt as if I had already won in life, even though it was only the beginning.
 
 <img src="fly.jpg" alt="FLY" style="width:50%; height:auto;">
 
