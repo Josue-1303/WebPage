@@ -6,6 +6,7 @@ I grew up near Centro Bilingüe Vista Alegre, a school that was not only my plac
 
 Thanks to the school, I had the chance to complete an internship at Optinetwork, a technology company where I worked with the IT team. This experience allowed me to apply my knowledge in a professional environment, collaborate on real projects, and gain a deeper understanding of technology from a practical perspective.
 
+![CBVA](cbva.png) &nbsp;&nbsp;&nbsp; ![PROM2024](prom_2024.JPG) &nbsp;&nbsp;&nbsp;  ![INSTANT PICS](instan_pics.jpg)
 ### Centria University of Applied Sciences — Kokkola, Finland
 Recognizing that the education system in Panama has its limitations, I aimed higher and decided to apply to a university in one of the countries with the highest education ratings. As soon as I graduated, I made the difficult decision to separate from my family and friends to fully prepare for the future I had always dreamed of.
 
