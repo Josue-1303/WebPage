@@ -1,3 +1,8 @@
+---
+layout: default
+title: Nombre de página
+---
+
 ## Josue Morales
 
 #### Meet Josue  
@@ -8,4 +13,5 @@ I am passionate about learning, creating, and improving myself day by day. Movin
 This page is a personal snapshot of my journey — where I come from, what I’ve learned, and the dreams that guide me forward.
 
 [_**Start**_](About_me.md)
+
 
