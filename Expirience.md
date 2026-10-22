@@ -16,7 +16,7 @@ Worked on Humo's web page [**Humo Ravintola**](https://humoravintola.fi/)
 
 And content creation for [**Humo's Instagram account**](https://www.instagram.com/ravintolahumo/)
 
-Currently, I have applied for an internship at Centria, where I hope to collaborate with fellow students and professors to implement a chatbot. I am always eager to learn more, take on challenges, and contribute wherever I can.
+I not only contributed to these companies but also worked in their kitchens, managed inventory organization and stock counts, and used Microsoft Excel to track and maintain important information related to their production and daily operations.
 
 <img src="programming.jpg" alt="PROGRAMMING" style="width:30%; height:auto;">
 
