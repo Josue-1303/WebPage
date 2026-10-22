@@ -18,7 +18,6 @@ And content creation for [**Humo's Instagram account**](https://www.instagram.co
 
 I not only contributed to these companies but also worked in their kitchens, managed inventory organization and stock counts, and used Microsoft Excel to track and maintain important information related to their production and daily operations.
 
-<img src="programming.jpg" alt="PROGRAMMING" style="width:30%; height:auto;">
 
 **________________________________________________________**
 
