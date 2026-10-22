@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Nombre de página
+permalink: /introduction/
 ---
 
 ## Josue Morales

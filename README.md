@@ -1,49 +1,21 @@
-# Personal Website
+# Josué Morales — personal portfolio
 
-This repository contains the source files for my personal website, built using Markdown and deployed through GitHub Pages.  
-The purpose of this project is to showcase my background, education, skills, projects, personal journey, and long-term goals.
+Live website: https://josue-1303.github.io/WebPage/
 
-## Purpose of the Website
-The website serves as:
+A responsive portfolio in English and Spanish, built with HTML, CSS, and vanilla JavaScript. It presents my studies, projects, work experience, photography, and contact details.
 
-- A personal introduction  
-- A showcase of my experiences and interests  
-- A place to document my journey in learning, work, and life  
-- A space to share my goals, values, and personal growth
+## Local preview
 
-[_**Wbesite**_](https://josue-1303.github.io/WebPage/)
+Run `python -m http.server 8765` in this directory and open http://localhost:8765. No build step or packages are required.
 
-## Structure
-The website is written mainly in **Markdown (.md)** and uses a **Jekyll theme** provided by GitHub Pages.  
-Files included:
+## Editing
 
-- `index.md` – Main page of the website  
-- `_config.yml` – GitHub Pages configuration and theme settings  
-- Additional Markdown files for sections such as education, projects, and experience  
-
-## Technologies Used
-- **Markdown**
-- **GitHub Pages**
-- **Jekyll Themes**
-- Basic web structure (no custom HTML or CSS required yet)
+- `index.html`: content, contact links, and paired `data-en` / `data-es` translations.
+- `styles.css`: desktop and mobile layouts, including reduced motion support.
+- `script.js`: saved language preference and Find me / Encuéntrame interaction.
+- The arrow points to the center of the front row. Adjust `.find-marker` in `styles.css` to change its position relative to the photo.
+- Original Markdown pages and photos are retained. The original introduction uses `/introduction/` to avoid conflicting with the new homepage.
 
 ## Deployment
-The site is automatically deployed via GitHub Pages.  
-Every push to the `main` branch updates the live website.
 
-## Goals of This Project
-- Build a clean, personal website reflecting my journey and growth  
-- Practice documentation and version control  
-- Develop a professional and personal online presence  
-
-## Future Improvements
-- Add images and visual elements  
-- Create separate pages for projects and experiences  
-- Add a custom domain  
-- Enhance layout with CSS or a custom Jekyll theme  
-
----
-
-Feel free to explore, clone, or review the code.  
-This website is a living project — it will evolve as I grow personally and professionally.
-
+GitHub Pages publishes through the existing repository configuration. Updates to `main` trigger deployment. Relative asset paths support the `/WebPage/` project URL. Google Fonts has local sans-serif fallbacks.
